@@ -1,1 +1,1 @@
-# Melanoma-Detection
+# Telecom-churn-case-study
